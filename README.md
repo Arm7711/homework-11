@@ -1,4 +1,4 @@
-# FoodSpot API
+# Restaurant API
 
 ## Project Description
 FoodSpot API is a backend service for managing restaurants, products, and users. It supports image uploads and handles file storage efficiently.
